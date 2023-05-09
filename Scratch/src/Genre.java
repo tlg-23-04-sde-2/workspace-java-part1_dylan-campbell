@@ -1,0 +1,3 @@
+enum Genre {
+    HORROR, ROMANCE, COMEDY, ACTION, DOCUMENTARY
+}
